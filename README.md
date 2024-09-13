@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there! 👋 I'm Deeksha 🌸
+🔭 What I'm up to: Building cool apps and exploring Machine Learning magic 🛠️✨
+🌱 What I'm learning: AI and Data Science—because why not make machines smarter? 🤓💡
+👯 Let's collaborate on: Fun ML projects or creating something awesome together! 💻🎉
 
 <!--
 **deeksha1010/deeksha1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
