@@ -1,6 +1,11 @@
 ## Hi there! 👋 I'm Deeksha 🌸
 
-- 🔭 What I'm up to: Building cool apps and exploring Machine Learning magic 🛠️✨
-- 🌱 What I'm learning: AI and Data Science—because why not make machines smarter? 🤓💡
-- 👯 Let's collaborate on: Fun ML projects or creating something awesome together! 💻🎉
+### 🛠️ What's Brewing in My Cauldron :
+- Teaching machines to think (but don't worry, I won't forget to unplug them at night!)
+- Transforming caffeine into code with superhuman efficiency ☕💻
 
+### Currently Tending to 🫥:
+- A collection of half-finished side projects (they multiply when I'm not looking) 📚
+- My ever-growing list of "cool ideas to build someday" (it's rivaling War and Peace in length) 📜
+
+ 
