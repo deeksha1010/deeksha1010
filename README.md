@@ -6,6 +6,6 @@
 
 ### Currently Tending to 🫥:
 - A collection of half-finished side projects (they multiply when I'm not looking) 📚
-- My ever-growing list of "cool ideas to build someday" (it's rivaling War and Peace in length) 📜
+- My ever-growing list of "cool ideas to build someday" (it's rivaling War and Peace in length)
 
  
