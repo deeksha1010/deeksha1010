@@ -1,11 +1,11 @@
-## print("Hi there! 👋 I'm Deeksha 🌸")
+## def greet(): return "Hi, I'm Deeksha" 🌊
 
-### 🛠️ What's Brewing in My Cauldron :
-- Teaching machines to think (but don't worry, I won't forget to unplug them at night!)
-- Transforming caffeine into code with superhuman efficiency ☕💻
+### Current Obsessions 🧠
+- Teaching neural nets to recognize patterns in unexpected places 🎯
+- Building tools that make ML less of a black box 🔍
+- Finding elegant solutions to messy problems ✨
 
-### Currently Tending to 🫥:
-- A collection of half-finished side projects (they multiply when I'm not looking) 📚
-- My ever-growing list of "cool ideas to build someday" (it's rivaling War and Peace in length)
-
+### Works in Progress 🌱
+- A toolkit for visualizing decision boundaries in high-dimensional spaces 📊
+- That one project I keep rebuilding from scratch (iteration #7) 🔄
  
