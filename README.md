@@ -7,7 +7,7 @@
 
 ### Works in Progress 🌱
 - A toolkit for visualizing decision boundaries in high-dimensional spaces 📊
-- That one project I keep rebuilding from scratch (iteration #7) 🔄!!
+- That one project I keep rebuilding from scratch (iteration #7) 🔄!
 
  ### Digital Badges
 [![An image of @deeksha1010's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deeksha1010)](https://holopin.io/@deeksha1010)
